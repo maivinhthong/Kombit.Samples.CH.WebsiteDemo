@@ -1,0 +1,39 @@
+<EntityDescriptor ID="_0051a28c-1dc2-4b2f-a3ad-8de72b7a060f" entityID="https://saml.adgangsstyring.projekt-stoettesystemerne.dk" xmlns="urn:oasis:names:tc:SAML:2.0:metadata">
+	<IDPSSODescriptor WantAuthnRequestsSigned="true" protocolSupportEnumeration="urn:oasis:names:tc:SAML:2.0:protocol">
+		<KeyDescriptor use="signing">
+			<KeyInfo xmlns="http://www.w3.org/2000/09/xmldsig#">
+				<X509Data>
+					<X509Certificate>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</X509Certificate>
+				</X509Data>
+			</KeyInfo>
+		</KeyDescriptor>
+		<KeyDescriptor use="encryption">
+			<KeyInfo xmlns="http://www.w3.org/2000/09/xmldsig#">
+				<X509Data>
+					<X509Certificate>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</X509Certificate>
+				</X509Data>
+			</KeyInfo>
+		</KeyDescriptor>
+		<ArtifactResolutionService Binding="urn:oasis:names:tc:SAML:2.0:bindings:SOAP" Location="https://adgangsstyring.projekt-stoettesystemerne.dk/runtime/services/artifact/saml2/soap" index="0" isDefault="true" />
+		<SingleLogoutService Binding="urn:oasis:names:tc:SAML:2.0:bindings:HTTP-Redirect" Location="https://adgangsstyring.projekt-stoettesystemerne.dk/runtime/saml2/issue.idp" ResponseLocation="https://adgangsstyring.projekt-stoettesystemerne.dk/runtime/saml2/signoff.idp" />
+		<SingleLogoutService Binding="urn:oasis:names:tc:SAML:2.0:bindings:HTTP-POST" Location="https://adgangsstyring.projekt-stoettesystemerne.dk/runtime/saml2/issue.idp" ResponseLocation="https://adgangsstyring.projekt-stoettesystemerne.dk/runtime/saml2/signoff.idp" />
+		<SingleLogoutService Binding="urn:oasis:names:tc:SAML:2.0:bindings:SOAP" Location="https://adgangsstyring.projekt-stoettesystemerne.dk/runtime/services/signoff/saml2/soap" ResponseLocation="https://adgangsstyring.projekt-stoettesystemerne.dk/runtime/services/signoff/saml2/soap" />
+		<SingleSignOnService Binding="urn:oasis:names:tc:SAML:2.0:bindings:HTTP-Redirect" Location="https://adgangsstyring.projekt-stoettesystemerne.dk/runtime/saml2/issue.idp" />
+		<SingleSignOnService Binding="urn:oasis:names:tc:SAML:2.0:bindings:HTTP-POST" Location="https://adgangsstyring.projekt-stoettesystemerne.dk/runtime/saml2/issue.idp" />
+		<Attribute Name="dk:gov:saml:attribute:KombitSpecVer" NameFormat="urn:oasis:names:tc:SAML:2.0:attrname-format:basic" FriendlyName="Specification Version" xmlns="urn:oasis:names:tc:SAML:2.0:assertion">
+			<AttributeValue>1.0</AttributeValue>
+		</Attribute>
+		<Attribute Name="dk:gov:saml:attribute:AssuranceLevel" NameFormat="urn:oasis:names:tc:SAML:2.0:attrname-format:basic" FriendlyName="Assurance Level" xmlns="urn:oasis:names:tc:SAML:2.0:assertion">
+			<AttributeValue>2</AttributeValue>
+			<AttributeValue>3</AttributeValue>
+		</Attribute>
+		<Attribute Name="dk:gov:saml:attribute:SpecVer" NameFormat="urn:oasis:names:tc:SAML:2.0:attrname-format:basic" FriendlyName="Specification Version" xmlns="urn:oasis:names:tc:SAML:2.0:assertion">
+			<AttributeValue>DK-SAML-2.0</AttributeValue>
+		</Attribute>
+		<Attribute Name="dk:gov:saml:attribute:CvrNumberIdentifier" NameFormat="urn:oasis:names:tc:SAML:2.0:attrname-format:basic" FriendlyName="CVR Number Identifier" xmlns="urn:oasis:names:tc:SAML:2.0:assertion" />
+		<Attribute Name="dk:gov:saml:attribute:Privileges_intermediate" NameFormat="urn:oasis:names:tc:SAML:2.0:attrname-format:basic" FriendlyName="Privileges" xmlns="urn:oasis:names:tc:SAML:2.0:assertion" />
+	</IDPSSODescriptor>
+	<AttributeAuthorityDescriptor protocolSupportEnumeration="urn:oasis:names:tc:SAML:2.0:protocol">
+		<AttributeService Binding="urn:oasis:names:tc:SAML:2.0:bindings:SOAP" Location="https://adgangsstyring.projekt-stoettesystemerne.dk/runtime/services/attributeservice/saml2/soap" />
+	</AttributeAuthorityDescriptor>
+</EntityDescriptor>
