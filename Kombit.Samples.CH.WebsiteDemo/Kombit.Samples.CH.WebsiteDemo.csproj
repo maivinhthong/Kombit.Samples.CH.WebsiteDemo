@@ -175,7 +175,7 @@
     <Content Include="images\kombit.png" />
     <Content Include="images\safewhere_logo.png" />
     <Content Include="js\bootstrap.min.js" />
-    <Content Include="js\jquery-1.11.3.min.js" />
+    <Content Include="js\jquery-2.1.4.min.js" />
     <Content Include="metadata\metadata.xml" />
     <Content Include="test.aspx" />
     <Content Include="Web.config">
