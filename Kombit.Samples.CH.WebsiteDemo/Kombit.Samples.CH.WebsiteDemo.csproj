@@ -169,7 +169,6 @@
     <Content Include="css\bootstrap.min.css" />
     <Content Include="css\Style.css" />
     <Content Include="Default.aspx" />
-    <Content Include="Default_.aspx" />
     <Content Include="images\background-tran.png" />
     <Content Include="images\body-bg.png" />
     <Content Include="images\kombit.png" />
@@ -190,13 +189,6 @@
     </Compile>
     <Compile Include="Default.aspx.designer.cs">
       <DependentUpon>Default.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="Default_.aspx.cs">
-      <DependentUpon>Default_.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="Default_.aspx.designer.cs">
-      <DependentUpon>Default_.aspx</DependentUpon>
     </Compile>
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>

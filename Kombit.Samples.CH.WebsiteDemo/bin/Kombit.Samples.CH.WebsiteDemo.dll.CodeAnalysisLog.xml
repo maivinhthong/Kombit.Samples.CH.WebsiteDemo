@@ -1,39 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/xsl" href="c:\program files (x86)\microsoft visual studio 12.0\team tools\static analysis tools\fxcop\Xml\CodeAnalysisReport.xsl"?>
 <FxCopReport Version="12.0">
- <Targets>
-  <Target Name="E:\Work\Code\kombit-web-net-master\Kombit.Samples.CH.WebsiteDemo\bin\Kombit.Samples.CH.WebsiteDemo.dll">
-   <Modules>
-    <Module Name="kombit.samples.ch.websitedemo.dll">
-     <Namespaces>
-      <Namespace Name="Kombit.Samples.CH.WebsiteDemo">
-       <Types>
-        <Type Name="Default_" Kind="Class" Accessibility="Public" ExternallyVisible="True">
-         <Messages>
-          <Message TypeName="IdentifiersShouldNotContainUnderscores" Category="Microsoft.Naming" CheckId="CA1707" Status="Active" Created="2015-11-20 08:07:49Z" FixCategory="Breaking">
-           <Issue Name="Type" Certainty="95" Level="Error">Remove the underscores from type name 'Default_'.</Issue>
-          </Message>
-         </Messages>
-        </Type>
-       </Types>
-      </Namespace>
-     </Namespaces>
-    </Module>
-   </Modules>
-  </Target>
- </Targets>
- <Rules>
-  <Rule TypeName="IdentifiersShouldNotContainUnderscores" Category="Microsoft.Naming" CheckId="CA1707">
-   <Name>Identifiers should not contain underscores</Name>
-   <Description>Do not use underscores when specifying identifiers. Some generated Visual Studio identifiers for applications contain underscore characters. Underscore characters should generally be avoided in public identifiers.</Description>
-   <Resolution Name="Type">Remove the underscores from type name {0}.</Resolution>
-   <Owner />
-   <Url>http://msdn.microsoft.com/library/ms182245.aspx</Url>
-   <Email>[none]</Email>
-   <MessageLevel Certainty="95">Error</MessageLevel>
-   <File Name="namingrules.dll" Version="12.0.0.0" />
-  </Rule>
- </Rules>
  <Localized>
   <String Key="Category">Category</String>
   <String Key="Certainty">Certainty</String>
