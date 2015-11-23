@@ -188,3 +188,10 @@ tfoot tr th:last-child {
     min-height: 100vh;
     height: 100%;
 }
+
+.row-sm-height {
+    display: table;
+    table-layout: fixed;
+    height: 100%;
+    width: 100%;
+  }

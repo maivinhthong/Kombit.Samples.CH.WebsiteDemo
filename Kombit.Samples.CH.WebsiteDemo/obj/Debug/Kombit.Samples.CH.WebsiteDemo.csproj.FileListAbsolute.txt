@@ -75,6 +75,5 @@ E:\Work\GitHub\Kombit.Samples.CH.WebsiteDemo\Kombit.Samples.CH.WebsiteDemo\bin\S
 E:\Work\GitHub\Kombit.Samples.CH.WebsiteDemo\Kombit.Samples.CH.WebsiteDemo\bin\Serilog.FullNetFx.xml
 E:\Work\GitHub\Kombit.Samples.CH.WebsiteDemo\Kombit.Samples.CH.WebsiteDemo\bin\System.Net.Http.Formatting.xml
 E:\Work\GitHub\Kombit.Samples.CH.WebsiteDemo\Kombit.Samples.CH.WebsiteDemo\bin\log4net.xml
-E:\Work\GitHub\Kombit.Samples.CH.WebsiteDemo\Kombit.Samples.CH.WebsiteDemo\obj\Debug\Kombit.Samples.CH.WebsiteDemo.csprojResolveAssemblyReference.cache
 E:\Work\GitHub\Kombit.Samples.CH.WebsiteDemo\Kombit.Samples.CH.WebsiteDemo\obj\Debug\Kombit.Samples.CH.WebsiteDemo.dll
 E:\Work\GitHub\Kombit.Samples.CH.WebsiteDemo\Kombit.Samples.CH.WebsiteDemo\obj\Debug\Kombit.Samples.CH.WebsiteDemo.pdb
